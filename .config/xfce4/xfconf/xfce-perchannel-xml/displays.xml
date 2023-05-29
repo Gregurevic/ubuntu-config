@@ -4,7 +4,7 @@
   <property name="ActiveProfile" type="string" value="Default"/>
   <property name="Default" type="empty">
     <property name="eDP-1" type="string" value="Laptop">
-      <property name="Active" type="bool" value="true"/>
+      <property name="Active" type="bool" value="false"/>
       <property name="EDID" type="string" value="2bff512f194906cba1cacba9293e6346658eb6ef"/>
       <property name="Resolution" type="string" value="1920x1080"/>
       <property name="RefreshRate" type="double" value="60.007852"/>
@@ -12,15 +12,15 @@
       <property name="Reflection" type="string" value="0"/>
       <property name="Primary" type="bool" value="false"/>
       <property name="Position" type="empty">
-        <property name="X" type="int" value="1920"/>
+        <property name="X" type="int" value="0"/>
         <property name="Y" type="int" value="0"/>
       </property>
     </property>
-    <property name="HDMI-1" type="string" value="Samsung 24&quot;">
+    <property name="HDMI-1" type="string" value="LG 34&quot;">
       <property name="Active" type="bool" value="true"/>
-      <property name="EDID" type="string" value="2f1a0099051cdd97efaf7a8a096726ea585810ef"/>
-      <property name="Resolution" type="string" value="1920x1080"/>
-      <property name="RefreshRate" type="double" value="60.000000"/>
+      <property name="EDID" type="string" value="c14628ce2b9af7d465a3431021acbfbc7f105812"/>
+      <property name="Resolution" type="string" value="3440x1440"/>
+      <property name="RefreshRate" type="double" value="49.953246"/>
       <property name="Rotation" type="int" value="0"/>
       <property name="Reflection" type="string" value="0"/>
       <property name="Primary" type="bool" value="false"/>
@@ -40,15 +40,15 @@
       <property name="Reflection" type="string" value="0"/>
       <property name="Primary" type="bool" value="false"/>
       <property name="Position" type="empty">
-        <property name="X" type="int" value="1920"/>
+        <property name="X" type="int" value="0"/>
         <property name="Y" type="int" value="0"/>
       </property>
     </property>
-    <property name="HDMI-1" type="string" value="Samsung 24&quot;">
+    <property name="HDMI-1" type="string" value="LG 34&quot;">
       <property name="Active" type="bool" value="true"/>
-      <property name="EDID" type="string" value="2f1a0099051cdd97efaf7a8a096726ea585810ef"/>
-      <property name="Resolution" type="string" value="1920x1080"/>
-      <property name="RefreshRate" type="double" value="60.000000"/>
+      <property name="EDID" type="string" value="c14628ce2b9af7d465a3431021acbfbc7f105812"/>
+      <property name="Resolution" type="string" value="3440x1440"/>
+      <property name="RefreshRate" type="double" value="49.953246"/>
       <property name="Rotation" type="int" value="0"/>
       <property name="Reflection" type="string" value="0"/>
       <property name="Primary" type="bool" value="false"/>

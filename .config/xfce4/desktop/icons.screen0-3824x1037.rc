@@ -2,10 +2,10 @@
 4.10.3+=true
 
 [/home/greg/Desktop/thunar.desktop]
-row=2
+row=1
 col=1
 
-[/home/greg/Desktop/notepadqq_notepadqq.desktop]
+[/home/greg/Desktop/notepadqq.desktop]
 row=2
 col=0
 
@@ -17,20 +17,20 @@ col=0
 row=0
 col=1
 
-[/home/greg/Desktop/slack_slack.desktop]
-row=1
-col=1
-
 [/home/greg/Desktop/sublime_text.desktop]
 row=0
 col=0
 
-[38AC8A4DAC8A061A]
-row=1
-col=17
+[/home/greg/Desktop/slack.desktop]
+row=3
+col=0
 
 [6AC2838BC28359E9]
 row=0
+col=17
+
+[38AC8A4DAC8A061A]
+row=1
 col=17
 
 [Trash]

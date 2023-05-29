@@ -1,5 +1,5 @@
-favorites=exo-file-manager.desktop,exo-terminal-emulator.desktop,sublime_text.desktop,slack_slack.desktop,deepin-screenshot.desktop,notepadqq_notepadqq.desktop,libreoffice-calc.desktop,libreoffice-writer.desktop,doublecmd.desktop,gimp.desktop
-recent=exo-terminal-emulator.desktop,notepadqq_notepadqq.desktop,deepin-screenshot.desktop,gimp.desktop,teams.desktop,slack_slack.desktop,doublecmd.desktop,exo-file-manager.desktop,libreoffice-calc.desktop,sublime_text.desktop
+favorites=exo-file-manager.desktop,exo-terminal-emulator.desktop,sublime_text.desktop,deepin-screenshot.desktop,notepadqq.desktop,slack.desktop,libreoffice-calc.desktop,libreoffice-writer.desktop,doublecmd.desktop,gimp.desktop
+recent=exo-terminal-emulator.desktop,xfce4-settings-editor.desktop,exo-file-manager.desktop,xfce-display-settings.desktop,anydesk.desktop,slack.desktop,deepin-screenshot.desktop,doublecmd.desktop,google-chrome.desktop,mate-calc.desktop
 button-icon=xfce4-whiskermenu
 button-single-row=false
 show-button-title=false

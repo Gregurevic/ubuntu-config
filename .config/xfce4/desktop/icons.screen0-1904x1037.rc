@@ -5,8 +5,8 @@
 row=1
 col=1
 
-[/home/greg/Desktop/notepadqq_notepadqq.desktop]
-row=3
+[/home/greg/Desktop/notepadqq.desktop]
+row=2
 col=0
 
 [/home/greg/Desktop/exo-terminal-emulator.desktop]
@@ -17,13 +17,13 @@ col=0
 row=1
 col=0
 
-[/home/greg/Desktop/slack_slack.desktop]
-row=2
-col=0
-
 [/home/greg/Desktop/sublime_text.desktop]
 row=0
 col=1
+
+[/home/greg/Desktop/slack.desktop]
+row=3
+col=0
 
 [38AC8A4DAC8A061A]
 row=1

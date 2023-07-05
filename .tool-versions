@@ -1,0 +1,5 @@
+ruby 3.2.2
+mysql 8.0.26
+nodejs 18.16.0
+yarn 1.22.19
+postgres 15.2

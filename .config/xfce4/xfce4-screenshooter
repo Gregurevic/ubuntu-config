@@ -1,8 +1,8 @@
 app=gimp-2.10
 last_user=
 screenshot_dir=file:///home/greg/Pictures
-action=4
+action=2
 delay=3
-region=2
+region=3
 show_mouse=1
 
